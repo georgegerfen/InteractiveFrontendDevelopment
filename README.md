@@ -44,11 +44,11 @@ Manual testing was also performed to ensure that the application works as expect
 
 The results of the testing procedures indicated that the Weather Forecast App is fully functional and provides accurate weather data to users. The automated tests confirmed that the data is retrieved correctly from the API, while the manual tests ensured that the application works as expected and provides a good user experience.
 
-![Initial load](./screenshots/loading_site.PNG)
+![Initial load](./loading_site.PNG)
 
-![Display](./screenshots/display.png)
+![Display](./display.png)
 
-![Error](./screenshots/error_message.png)
+![Error](./error_message.png)
 
 
 ## 5. Development Life Cycle Rationale
@@ -68,4 +68,4 @@ The deployment procedure involves the following steps:
 2. **Build Process:** Create a production-ready build of the application.
 3. **GitHub Pages:** Deploy the application to GitHub Pages for public access.
 
-To access the application, users can visit the following URL: []
+To access the application, users can visit the following URL: [https://georgegerfen.github.io/InteractiveFrontendDevelopment/]
